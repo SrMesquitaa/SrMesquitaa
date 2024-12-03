@@ -5,7 +5,7 @@ Entusiasta de **tecnologia** com foco em **dados** e **Business Intelligence**. 
 ## Minhas Áreas de Interesse:
 - 📊 BI e dashboards
 - 👨‍💻 Iniciante em Desenvolvimento (de qualquer coisa
-- 🤖 Automação com Python
-- 🚀 Inovações em tecnologia
+- 🤖 Fã do Python
+- 🚀 Automação com Python tbm
 
 Dificil é achar um projeto que preste aqui
