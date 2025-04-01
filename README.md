@@ -6,5 +6,5 @@ Entusiasta de **tecnologia** com foco em **dados** e **Business Intelligence**. 
 - 📊 BI e dashboards
 - 👨‍💻 Iniciante em Desenvolvimento (de qualquer coisa
 - 🤖 Experiente com Python
-- 
-Dificil é achar um projeto que preste aqui
+
+No momento desempregado, em busca de uma oportunidade. 
