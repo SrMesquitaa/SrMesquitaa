@@ -1,10 +1,20 @@
-# E aí! Aqui é o Léu 
+# Hey there! I'm Léu 👋
 
-Entusiasta de **tecnologia** com foco em **dados** e **Business Intelligence**. Sempre explorando inovações em **Power BI**, **desenvolvimento**, **automação** e **ferramentas de dados**.
+Technology enthusiast with a focus on **Data** and **Business Intelligence**. I'm constantly exploring innovations in **Power BI**, **automation development**, and **data tools**.
 
-## Minhas Áreas de Interesse:
-- 📊 BI e dashboards
-- 👨‍💻 Experiente em desenvolvimento (de qualquer coisa
-- 🤖 Amante de Python
+## 🛠 My Areas of Interest
+- 📊 **BI & Dashboards**: Creating insightful data visualizations.
+- 👨‍💻 **Development**: Experienced in building (anything 🤭
+- 🤖 **Automation**: Python lover.
 
-No momento empregado, dando meu melhor para garantir o homeoffice numa empresa gringa. 
+## 💼 Current Role
+I am currently a **Business Intelligence Analyst** at **Amel's 🐝**.
+
+---
+
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-mesquitaa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://srmesquitaa.github.io/)
+
+---
+*“In God we trust; all others must bring data.”*
