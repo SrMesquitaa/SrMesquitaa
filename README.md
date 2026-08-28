@@ -10,14 +10,14 @@
 
   ## 🚀 What I've Built
 
-  - **vendas-form** — My main project: a Next.js 15 sales form platform deployed on Vercel, with Clerk
-  authentication, submitting sales data directly to BigQuery. Source is private (client data) —
+  - **vendas-form** - My main project: a Next.js 15 sales form platform deployed on Vercel, with Clerk
+  authentication, submitting sales data directly to BigQuery. Source is private (client data) -
   read the [full case study](https://github.com/SrMesquitaa/case-studies/blob/main/vendas-form.md)
-  - **Power BI + BigQuery migration** — Migrated reporting infrastructure from Google Sheets (80k+
+  - **Power BI + BigQuery migration** - Migrated reporting infrastructure from Google Sheets (80k+
   rows, near cell limit) to BigQuery with bronze/gold architecture
-  - **Extrator Planium** — Desktop app that authenticates on a CRM via Playwright, extracts leads and
+  - **Extrator Planium** - Desktop app that authenticates on a CRM via Playwright, extracts leads and
   loads them into BigQuery in batch
-  - **Streamlit Dashboard** — Paid traffic and sales monitoring dashboard connected to BigQuery via
+  - **Streamlit Dashboard** - Paid traffic and sales monitoring dashboard connected to BigQuery via
   Service Account
 
 
@@ -34,8 +34,8 @@
 
   ## 💼 Current Role
 
-  **BI Analyst @ Amels Conceito** — responsible for data infrastructure, automation and dashboard
-  development for a Hapvida health insurance reseller.
+  **BI Analyst @ Amels Conceito** - responsible for data infrastructure, automation and dashboard
+  development for a health insurance reseller.
 
   ---
 
