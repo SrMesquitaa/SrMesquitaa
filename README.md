@@ -11,7 +11,8 @@
   ## 🚀 What I've Built
 
   - **vendas-form** — My main project: a Next.js 15 sales form platform deployed on Vercel, with Clerk
-  authentication, submitting sales data directly to BigQuery
+  authentication, submitting sales data directly to BigQuery. Source is private (client data) —
+  read the [full case study](https://github.com/SrMesquitaa/case-studies/blob/main/vendas-form.md)
   - **Power BI + BigQuery migration** — Migrated reporting infrastructure from Google Sheets (80k+
   rows, near cell limit) to BigQuery with bronze/gold architecture
   - **Extrator Planium** — Desktop app that authenticates on a CRM via Playwright, extracts leads and
